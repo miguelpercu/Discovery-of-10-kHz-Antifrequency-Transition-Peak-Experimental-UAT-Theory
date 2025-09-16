@@ -1,0 +1,24 @@
+{
+    "execution_date": "2025-09-16T02:10:13.387019",
+    "author": "Miguel Angel Percudani",
+    "theory": "Unified Applicable Time (UAT) Framework",
+    "simulation_parameters": {
+        "alpha_optimized": 5e-06,
+        "f_min": 1e-50,
+        "f_max": 1e+45,
+        "f_transition_min": 1000.0,
+        "f_transition_max": 2000000.0,
+        "n_points_full": 2000,
+        "n_points_transition": 5000
+    },
+    "key_results": {
+        "transition_start_Hz": 2000.3876214473316,
+        "transition_end_Hz": 528730.2853731978,
+        "transition_bandwidth_Hz": 526729.8977517504,
+        "max_effect_frequency_Hz": 10009.49509576691,
+        "max_derivative_value": 4.9874971243743516e-06,
+        "exact_peak_frequency_Hz": 9000.0,
+        "exact_peak_derivative_value": 4.989886406734995e-06,
+        "modification_at_peak": 1.0449696495836003
+    }
+}
